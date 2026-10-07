@@ -1,5 +1,6 @@
 For more information about me <a href="https://khanyi-gina.netlify.app/" target="_blank">𝘃𝗶𝘀𝗶𝘁 𝗺𝘆 𝗽𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼</a>.
 
+
 <video controls width="640">
-  <source src="images/portfolio.mp4" type="video/mp4">
+  <source src="portfolio.mp4" type="video/mp4">
 </video>
