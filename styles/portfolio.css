@@ -230,10 +230,6 @@ footer .beacons-link:hover {
      padding: 20px 0; /* Added 20px padding so text doesn't touch the image */
     text-align: center;
   }
-
-    .project-image {
-    margin-bottom: 20px; /* Pushes the text down slightly on mobile */
-  }
     .col-lg-6:has(.about-image) {
     order: -1;
     width: 100%;
