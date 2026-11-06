@@ -131,7 +131,6 @@ p {
   height: auto;
   max-height: 400px; /* Prevents the images from becoming too massive */
   object-fit: cover; /* Keeps the image proportions correct */
-  border-radius: 10px; /* Optional: adds a soft corner to the images */
   box-shadow: 0 10px 20px rgba(0,0,0,0.1); /* Optional: adds a nice subtle shadow */
 }
 
