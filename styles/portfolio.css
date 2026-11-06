@@ -227,7 +227,7 @@ footer .beacons-link:hover {
   }
 
   .project-desciption {
-    padding: 0;
+     padding: 20px 0; /* Added 20px padding so text doesn't touch the image */
     text-align: center;
   }
 
